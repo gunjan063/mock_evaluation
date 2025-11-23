@@ -7,8 +7,8 @@ console.log(combined)
 //part1 ques2
 let person = { name: "Venu", age: 25 };
 let extra = { city: "Bengaluru" };
-let combined={...person,...extra};
-console.log(combined)
+let combined1={...person,...extra};
+console.log(combined1)
 
 //part1 ques3
 function sumAll(...args){
